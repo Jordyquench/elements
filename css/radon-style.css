@@ -1,0 +1,123 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-size: 100%;
+	line-height: 1.5em;
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: .5px;
+	max-width: 100%;
+	background-color: #eadec1;
+
+}
+
+.element{
+	margin-left: auto;
+	margin-right: auto;
+	width: 18%;
+	height: 35%;
+	border: 5px solid #6260aa;
+	margin-top: 5em;
+	text-align: center;
+
+}
+
+.element p {
+	margin: 0;
+	color: #6260aa;
+	font-family: bebas neue;
+}
+            
+.small {
+	font-size: 2em;
+}
+            
+.medium {
+	font-size: 2em;
+ 
+}
+        
+.large {
+	font-size: 4em;
+
+}
+
+
+.intro{
+	width: 50%;
+	height: 30%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5em;
+	margin-bottom: 15em;
+}
+
+
+.intro h1{
+	text-align: center;
+	font-size: 60px;
+	color: #6260aa;
+	font-family: bebas neue;
+}
+
+.intro p{
+	margin-top: 1em;
+	font-size: 20px;
+	font-weight: 200;
+}
+
+.uses{
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+}
+
+.uses-1{
+	margin-left: auto;
+	margin-right: auto;
+	width: 15%;
+}
+
+
+.uses-1 h1{
+	color: #6260aa;
+	font-size: 60px;
+	margin-top: .5em;
+	margin-left: .5em;
+	font-family: bebas neue;
+}
+
+
+.uses-pic-showcase{
+	width: 100%;
+	height: 40%;
+
+}
+
+.pic{
+	float: left;
+	width: 30%;
+	height: 100%;
+	margin-left: 1.6em;
+}
+
+
+.text-showcase{
+	width: 100%;
+	height: 47.2%;
+}
+
+.text{
+	float: left;
+	width: 30%;
+	height: 100%;
+	margin-left: 1.6em;
+	font-size: 20px;
+	padding-top: 2em;
+}
+
+.text h1{
+	font-size: 24px;
+	padding-bottom: 1em;
+	color: #6260aa;
+}
+
