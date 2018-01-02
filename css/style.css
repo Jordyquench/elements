@@ -10,6 +10,7 @@
 
 }
 
+/* title */
 
 .container{
 	margin: auto;
@@ -38,10 +39,15 @@ header{
 	font-family: oswald;
 }
 
+/* title */
+
+/* elements */
+
 .elements{
 	float: left;
 	width: 100%;
-	margin-top: 1em;
+	margin-top: 3em;
+	margin-bottom: 3em;
 }
 
         
@@ -262,65 +268,42 @@ header{
 	font-size: 2em;
  
 }
+
+/* elements */
         
+/* introduction */
+
+.intro{
+	width: 100%;
+	margin-bottom: 3em;
+
+}
+
+.intro-para h1{
+	font-size: 3em;
+	padding: .2em;
+	color: #db2231;
+}
+
+.intro-para p{
+	font-size: 1.2em;
+	padding-left: .5em;
+	width: 50%;
+	padding-top: 1em;
+
+}
+
 .large {
 	font-size: 4em;
 
 }
 
 .noble{
-	float: left;
-	width: 100%;
-	margin-top: 2em;
+	float: right;
+	width: 50%;
+	margin-top: 7em;
 
 }
 
-.character{
-	margin-left: auto;
-	margin-right: auto;
-	width: 8%;
-}
-
-
-.button-container{
-	float: left;
-	width: 100%;
-	margin-bottom: 2em;
-
-}
-
-.button{
-	margin-left: auto;
-	margin-right: auto;
-	border: 3px solid #6360a9;
-	width: 20%;
-	height: 10%;
-	text-align: center;
-	transition: all 1000ms cubic-bezier(0.19, 1, 0.22, 1);
-
-}
-
-.button h1 {
-	margin: 0;
-	color: #6360a9;
-	font-size: 1.5em;
-	margin-top: .5em;
-}
-
-
-.button:hover {
-	background-color: #6360a9;
-	color: #eadec1;
-	transition: all 1000ms cubic-bezier(0.19, 1, 0.22, 1);
-}
-
-
-.button:hover >*{
-	background-color: #6360a9;
-	color: #eadec1;
-	transition: all 1000ms cubic-bezier(0.19, 1, 0.22, 1);
-}
-
-
-
+/* introduction */
 
