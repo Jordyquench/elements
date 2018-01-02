@@ -3,7 +3,7 @@
 	margin: 0;
 	font-size: 100%;
 	line-height: 1.5em;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Oswald', sans-serif;
 	letter-spacing: .5px;
 	max-width: 100%;
 	background-color: #eadec1;
@@ -23,7 +23,7 @@ header{
 .previous{
 	color: #6260aa;
 	float: left;
-	font-size: 1.5vw;
+	font-size: 2vw;
 	width: 33%;
 
 }
@@ -43,7 +43,7 @@ header{
 	color: #6260aa;
 	float: left;
 	text-align: center;
-	font-size: 1.5vw;
+	font-size: 2vw;
 	width: 33%;
 
 
@@ -65,7 +65,7 @@ header{
 	color: #6260aa;
 	float: right;
 	text-align: right;	
-	font-size: 1.5vw;
+	font-size: 2vw;
 	width: 33%;
 
 }
@@ -96,7 +96,7 @@ header{
 .element p {
 	margin: 0;
 	color: #6260aa;
-	font-family: bebas-neue;
+	font-family: oswald;
 }
             
 .small {
@@ -128,7 +128,7 @@ header{
 	text-align: center;
 	font-size: 60px;
 	color: #6260aa;
-	font-family: bebas-neue;
+	font-family: oswald;
 }
 
 .intro p{
@@ -155,7 +155,7 @@ header{
 	font-size: 60px;
 	margin-top: .5em;
 	margin-left: .5em;
-	font-family: bebas-neue;
+	font-family: oswald;
 }
 
 

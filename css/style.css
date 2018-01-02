@@ -3,7 +3,7 @@
 	margin: 0;
 	font-size: 100%;
 	line-height: 1.5em;
-	font-family: bebas-neue, sans-serif;
+	font-family: oswald, sans-serif;
 	letter-spacing: .5px;
 	max-width: 100%;
 	background-color: #eadec1;
@@ -35,7 +35,7 @@ header{
 	font-size: 60px;
 	color: #db2231;
 	line-height: 90%;
-	font-family: bebas-neue;
+	font-family: oswald;
 }
 
 .elements{
